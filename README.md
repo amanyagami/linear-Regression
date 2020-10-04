@@ -4,7 +4,7 @@ predicting a student's grade in an examination in two subjects
 2)portuguese
 
 
-took a dataset from UCI Machine learning repository which had around 33 attributes of a student. 
+took a dataset from UCI Machine learning repository which had 32 attributes of a student. 
 the link to the dataset :-https://archive.ics.uci.edu/ml/datasets/Student+Performance#
 
 Attribute Information:
@@ -43,8 +43,8 @@ Attribute Information:
 
 these grades are related with the course subject, Math or Portuguese:
 31 G1 - first period grade (numeric: from 0 to 20)
-31 G2 - second period grade (numeric: from 0 to 20)
-32 G3 - final grade (numeric: from 0 to 20, output target)
+32 G2 - second period grade (numeric: from 0 to 20)
+33 G3 - final grade (numeric: from 0 to 20, output target)
 
 out of these attributes i selected the attributes which can help a students performance for example studytime, failures etc.
 
